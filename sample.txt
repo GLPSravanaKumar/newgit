@@ -10,3 +10,9 @@ Gmail:glpskumar68@gmail.com
 2. worked for 1 year as Team Leader in ShoppingZone TV pvt limited 
 
 3. currently working in United Health Group Organisation as Senior Claims processor since 5 years
+
+
+
+Skils:- AWS services: Elastic compute cloud (Ec2), Simple storage service (S3), Virtual Private Cloud (VPC), Relational Data Base( RDS),
+	Identity and Access Management (IAM), Route 53, Cloud Watch, Elastic Beanstalk, Elastic File Storage(EFS), GIt & GIthub, Python, 
+	Html, CSS, Bootstrap, Java Script, React Js, SQL DB.
