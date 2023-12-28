@@ -1,2 +1,7 @@
 Hello this is sample document file, welcome to the linux GIT Repository
+<<<<<<< HEAD
 Mobile number:999999999
+=======
+username:Glp sravana kumar
+emil id:glpsk369@gmail.com
+>>>>>>> version2
